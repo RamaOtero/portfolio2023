@@ -43,14 +43,8 @@
     transform: scale(1.2);
 }
 
-
-.my-slider-progress {
-  background: #ccc;
-}
-
-.my-slider-progress-bar {
-  background: greenyellow;
-  height: 2px;
-  transition: width 400ms ease;
-  width: 0;
+@media screen and (max-width:435px) {
+    .brandP {
+        height: 200px;
+    }
 }

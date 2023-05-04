@@ -55,7 +55,7 @@
 @media screen and (max-width:435px) {
 
     .foto {
-        height: 30%;
+        height: 50%;
     }
 
 
@@ -70,7 +70,7 @@
         height: 70vh;
     }
      .cvBttn {
-        font-size:0.5rem;
+        font-size:1rem;
      }
 
 

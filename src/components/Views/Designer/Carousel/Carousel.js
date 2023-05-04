@@ -28,8 +28,8 @@ export default function Carousel() {
     return (
       <>
         <Swiper
-          slidesPerView={5}
-          spaceBetween={1}
+          slidesPerView={3}
+          spaceBetween={3}
           freeMode={true}
           pagination={{
             clickable: true,
