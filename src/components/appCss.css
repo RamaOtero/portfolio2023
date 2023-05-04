@@ -1,0 +1,19 @@
+@import url('./Main/Assets/fontsAll/css/panchang.css');
+@import url('./Main/Assets/fontsAll/Boska_Complete/css/boska.css');
+@import url('./Main/Assets/fontsAll/Alpino_Complete/css/alpino.css');
+@import url('./Main/Assets/fontsAll/Switzer_Complete/css/switzer.css');
+@import url('./Main/Assets/fontsAll/Stardom_Complete/css/stardom.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fondo {
+    background-image: url(../components/Main/Assets/fondo2.jpg);
+    background-position: center;
+    background-size: auto;
+    background-repeat: initial;
+    height: 100%;
+}

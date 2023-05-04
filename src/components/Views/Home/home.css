@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-style: none;
+    background: none;
+}
+
+.foto {
+    height: 500px;
+}
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.home2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.portfolio {
+    font-size: 5rem;
+    font-family: 'Panchang-Extralight';
+    cursor: default;
+}
+
+.nombre {
+    font-size: 5rem;
+    font-family: 'Panchang-Extrabold';
+    cursor: default;
+}
+
+.cvBttn {
+    background-color: rgb(236, 98, 63);
+    padding: 10px 20px 10px 20px;
+    font-family:'Alpino-bold';
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+}

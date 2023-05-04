@@ -1,0 +1,19 @@
+@import url('../Assets/fontsAll/css/panchang.css');
+@import url('../Assets/fontsAll/Boska_Complete/css/boska.css');
+@import url('../Assets/fontsAll/Alpino_Complete/css/alpino.css');
+@import url('../Assets/fontsAll/Switzer_Complete/css/switzer.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navBtts {
+    display: flex;
+    gap: 20px;
+    justify-content:center;
+    align-items: start;
+    padding-top: 2%;
+}
+

@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-bottom: 5%;
+    
+}
+.aboutContene {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../../Main/Assets/fondoDib4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 50%;
+}
+.aboutMe {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 20px 0;
+}
+
+.info {
+    display: flex;
+    font-family: 'Switzer-regular';
+    font-size: 100%;
+    cursor: default;
+    width: 60%;
+    color: white;
+    text-align: center;
+}

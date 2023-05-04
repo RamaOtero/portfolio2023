@@ -1,0 +1,20 @@
+.logo {
+    height: 100px;
+}
+
+.divS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(./assets/textu3.jpg);
+    background-size: cover;
+    padding: 50px 0 50px 0;
+    gap: 80px;
+}
+
+.divSkills {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+}

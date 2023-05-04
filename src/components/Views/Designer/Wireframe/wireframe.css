@@ -1,0 +1,41 @@
+.wire {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: -400px;
+}
+
+.wireframeDiv {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.wireframeDiv span {
+    font-family: 'Stardom-regular';
+    font-size: 5rem;
+    color: rgb(43, 42, 42);
+    padding: 0 20px 0 20px;
+    background-image: url(../../../Main/Assets/fondoDib3.jpg);
+    background-size: 100% 35%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.divWireframes {
+    display: flex;
+    justify-content: center;
+}
+
+.divWireframes img {
+    height: 40%;
+}
+
+.divWN {
+    display: grid;
+    justify-content: center;
+}
+
+.divWN img {
+    height: 500px;
+}

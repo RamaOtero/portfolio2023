@@ -1,0 +1,35 @@
+.divCarousel {
+    margin-top: 5vh;
+    padding-bottom: 50px;
+}
+.logoDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 4rem;
+    background-color: white;
+    box-shadow: 28px 25px 21px -17px rgba(0,0,0,0.1),inset 15px 39px 11px -26px rgba(0,0,0,0.1);
+}
+
+.designer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.designerPLogos {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50vw;
+}
+
+.designer .logoDiv span {
+    font-family: 'Switzer-extralight';
+    font-size: 3rem;
+    color: rgb(43, 42, 42);
+    padding: 5px 20px 5px 20px;
+}
