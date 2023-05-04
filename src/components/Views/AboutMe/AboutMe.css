@@ -23,6 +23,7 @@
     flex-wrap: wrap;
     gap: 20px;
     width: 50%;
+    margin-top: 60px;
 }
 .aboutMe {
     display: flex;

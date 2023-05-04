@@ -1,3 +1,5 @@
+
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +9,7 @@
 }
 
 .foto {
-    height: 500px;
+    height: 60%;
 }
 .home {
     display: flex;
@@ -23,11 +25,10 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-
 }
 
 .portfolio {
-    font-size: 5rem;
+    font-size: 400%;
     font-family: 'Panchang-Extralight';
     cursor: default;
 }
